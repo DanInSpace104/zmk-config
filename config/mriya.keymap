@@ -28,7 +28,7 @@
             #binding-cells = <0>;
             bindings =
                 <&macro_press>,
-                <&kp LGUI>,
+                <&to 0 &kp LGUI>,
                 <&macro_tap>,
                 <&kp SPACE>,
                 <&macro_pause_for_release>,
@@ -43,12 +43,12 @@
             #binding-cells = <0>;
             bindings =
                 <&macro_press>,
-                <&kp LGUI>,
+                <&to 1 &kp LGUI>,
                 <&macro_tap>,
                 <&kp SPACE>,
                 <&macro_pause_for_release>,
                 <&macro_release>,
-                <&tog 1 &kp LGUI>;
+                <&to 1 &kp LGUI>;
 
             label = "LANGRU";
         };
