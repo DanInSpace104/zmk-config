@@ -30,12 +30,12 @@ layers:
   - A
   - {t: S, h: LALT}
   - {t: H, h: LCTRL}
-  - {t: T, h: LEFT SHIFT}
+  - {t: T, h: LSHFT}
   - G
   - Y
-  - {t: N, h: RSHIFT}
+  - {t: N, h: RSHFT}
   - {t: E, h: RCTRL}
-  - {t: O, h: RIGHT ALT}
+  - {t: O, h: RALT}
   - I
   - {t: '''', h: RCTRL}
   - {t: '[', h: LEFT ALT}
