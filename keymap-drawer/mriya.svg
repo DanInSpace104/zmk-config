@@ -471,14 +471,17 @@ path.combo {
 <g transform="translate(196, 154)" class="key keypos-28">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">S</text>
+<text x="0" y="24" class="key hold">LALT</text>
 </g>
 <g transform="translate(252, 140)" class="key keypos-29">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">D</text>
+<text x="0" y="24" class="key hold">LCTRL</text>
 </g>
 <g transform="translate(308, 154)" class="key keypos-30">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">F</text>
+<text x="0" y="24" class="key hold">LSHFT</text>
 </g>
 <g transform="translate(364, 161)" class="key keypos-31">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
@@ -491,14 +494,17 @@ path.combo {
 <g transform="translate(756, 154)" class="key keypos-33">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">J</text>
+<text x="0" y="24" class="key hold">RSHFT</text>
 </g>
 <g transform="translate(812, 140)" class="key keypos-34">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">K</text>
+<text x="0" y="24" class="key hold">RCTRL</text>
 </g>
 <g transform="translate(868, 154)" class="key keypos-35">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">L</text>
+<text x="0" y="24" class="key hold">RALT</text>
 </g>
 <g transform="translate(924, 175)" class="key keypos-36">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
@@ -1000,7 +1006,9 @@ path.combo {
 </g>
 <g transform="translate(924, 175)" class="key keypos-36">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">PAUSE</text>
+<text x="0" y="0" class="key tap">
+<tspan x="0" dy="-0.6em">PLAY</tspan><tspan x="0" dy="1.2em">PAUSE</tspan>
+</text>
 </g>
 <g transform="translate(980, 182)" class="key keypos-37">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>

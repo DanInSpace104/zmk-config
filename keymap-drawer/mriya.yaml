@@ -87,14 +87,14 @@ layers:
   - '&langEn'
   - {t: ▽, type: trans}
   - A
-  - S
-  - D
-  - F
+  - {t: S, h: LALT}
+  - {t: D, h: LCTRL}
+  - {t: F, h: LSHFT}
   - G
   - H
-  - J
-  - K
-  - L
+  - {t: J, h: RSHFT}
+  - {t: K, h: RCTRL}
+  - {t: L, h: RALT}
   - ;
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -213,7 +213,7 @@ layers:
   - DOWN
   - UP
   - RIGHT
-  - PAUSE
+  - PLAY PAUSE
   - {t: '-', h: RCTRL}
   - <
   - KP 0
