@@ -157,8 +157,8 @@ layers:
   - '-'
   - +
   - {t: (, h: LALT}
-  - '-'
-  - '2'
+  - LC(Z)
+  - LC(X)
   - LC(C)
   - LC(V)
   - '5'
@@ -166,7 +166,7 @@ layers:
   - '1'
   - '2'
   - '3'
-  - {t: ▽, type: trans}
+  - KP DOT
   - {t: ), h: RIGHT ALT}
   - {t: ▽, type: trans}
   - {t: TAB, h: adjust}
